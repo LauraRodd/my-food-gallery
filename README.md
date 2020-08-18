@@ -8,3 +8,4 @@ A simple static page to showcase lovely pictures of food using grid
 - CSS and Bootstrap
 - VSCode
 
+## View [Live](https://codepen.io/laura-rodd/full/rNVKLEq)
